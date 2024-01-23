@@ -26,7 +26,6 @@ count++;
 }
 else
 {
-print_array(array, size);
 count++;
 }
 }
